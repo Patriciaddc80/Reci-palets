@@ -23,7 +23,7 @@ Sitio web corporativo para ReciCreando, empresa especializada en la transformaci
 
 ## 📱 Demo
 
-[Ver sitio en vivo](https://tu-usuario.github.io/recicreando-website/)
+[Ver sitio en vivo].(https://reci-palets.vercel.app/)
 
 ## 🛠️ Instalación Local
 
