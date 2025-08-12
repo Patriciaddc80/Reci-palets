@@ -1,2 +1,2 @@
 # Reci-palets
-Proyectos web para ventas de artículos 
+Sitio web para ReciCreando - Muebles de palets reciclados
